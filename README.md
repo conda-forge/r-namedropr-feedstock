@@ -1,11 +1,11 @@
-About r-namedropr
-=================
+About r-namedropr-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-namedropr-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/nucleic-acid/namedropR
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-namedropr-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides 'visual citations' containing the metadata of a scientific paper and a 'QR' code. A 'visual citation' is a banner containing title, authors, journal and year of a publication. This package can create such banners based on 'BibTeX' and 'BibLaTeX' references and includes a QR code pointing to the 'DOI'. The resulting HTML object or PNG image can be included in a presentation to point the audience to good resources for further reading. Styling is possible via predefined designs or via custom 'CSS'. This package is not intended as replacement for proper reference manager packages, but a tool to enrich scientific presentation slides.
 
